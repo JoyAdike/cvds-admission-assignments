@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Anaconda
+.conda/
+*.egg-info/
+
+# Generated output files
+generated_epoch_*.png
+real_images.png
+data_file.csv
+
+# MNIST dataset
+MNIST/
+
+# VS Code
+.vscode/
+
+# Mac system files
+.DS_Store

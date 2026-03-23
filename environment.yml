@@ -1,0 +1,11 @@
+name: admission-assignments
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - pillow
+  - numpy
+  - torchvision
+  - pytorch
+prefix: /opt/anaconda3/envs/admission-assignments
