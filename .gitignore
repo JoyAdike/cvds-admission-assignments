@@ -21,3 +21,4 @@ MNIST/
 
 # Mac system files
 .DS_Store
+.ipynb_checkpoints/
